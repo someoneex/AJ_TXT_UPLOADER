@@ -19,9 +19,7 @@ ajpython - To Extract .txt Files
 deny - To stop Batch Process
 ```
 
-- 👋 Hi, Myself @AJ-PYTHON
-- 👀 I’m interested in Coding and Learning Skills...
-- 📫 How to reach me at Telegram...
+## 📫 How to reach me at Telegram...
 
 ## Connect with me
 <p align="center">
