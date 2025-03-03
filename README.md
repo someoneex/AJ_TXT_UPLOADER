@@ -31,7 +31,7 @@ adl - Download Music URL
 </p>
  
 -----
-Credits: [ＡＪ ＰＹＴＨＯＮ](https://t.me/I_AJ_PYTHON_I)
+Credits: [ＡＪ ＰＹＴＨＯＮ](https://t.me/AJ_PYTHON_15)
 
 <!---
 AJ-PYTHON/AJ-PYTHON is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
