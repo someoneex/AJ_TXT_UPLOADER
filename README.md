@@ -12,11 +12,11 @@ Download Files from .txt File and Upload it into Telegram.
 
 * `API_HASH` - From my.telegram.org
 
-## Botfather Commands
+## 🚀 Features Commands
 ```
 start - Bot Running Status
-dl - Download URL
-adl - Download Music URL
+ajpython - To Extract .txt Files
+deny - To stop Batch Process
 ```
 
 - 👋 Hi, Myself @AJ-PYTHON
