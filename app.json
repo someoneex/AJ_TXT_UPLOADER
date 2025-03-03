@@ -26,6 +26,10 @@
         "pwtoken": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑻𝒐𝒌𝒆𝒏",
             "required": true
+        },
+        "CHANNEL_ID": {
+            "description": "𝙀𝙣𝙩𝙚𝙧 𝙮𝙤𝙪𝙧 𝘾𝙝𝙖𝙣𝙣𝙣𝙚𝙡 𝙄𝘿",
+            "required": true
         }
     },
     "addons": [],
