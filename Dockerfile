@@ -11,4 +11,4 @@ WORKDIR /app/
 RUN pip3 install --upgrade -r Installer
 
 #CMD ["python3", "modules/main.py"]
-CMD gunicorn app:app & python3 modules/main.py
+CMD gunicorn app:app & python3 aj/main.py
