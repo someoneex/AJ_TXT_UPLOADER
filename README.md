@@ -30,6 +30,14 @@ deny - To stop Batch Process
  
 -----
 Credits: [ＡＪ ＰＹＴＨＯＮ](https://t.me/AJ_PYTHON_15)
+-----
+
+## ⚠️ Important Notice
+This project is not for sale and is intended for educational and personal use only.
+
+## 🚫 Misuse Warning:
+- This bot should not be used for misleading, unethical, or illegal purposes.
+- The developer is not responsible for any misuse of this tool.
 
 <!---
 AJ-PYTHON/AJ-PYTHON is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
